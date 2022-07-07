@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mySharedPreferences</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Color_De_Fondo">Color de fondo</string>
+    <string name="Enviar">Enviar</string>
+    <string name="Cerrar_Sesion">Cerrar sesion</string>
+</resources>
